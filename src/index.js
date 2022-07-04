@@ -10,14 +10,17 @@ function uiglasscard(option) {
 
     if (options.glass_color === 'dark'){
         options.glass_color = 'rgba(255,255,255,0.25)'
+        options.borderColor = 'rgba(255,255,255,0.45)'
     } else {
         options.glass_color = 'rgba( 3, 3, 22, 0.7 )'
+        options.borderColor = 'rgba(3, 3, 22, 0.4)'
     }
 
     cards.forEach( card => {
         card.style.backdropFilter = `blur(${options.glass_type})`;
         card.style.backgroundColor = `${options.glass_color}`;
         card.style.borderRadius = `10px`;
+        card.style.borderColor = `${options.borderColor}`;
         
         if(option.border) {
             card.style.border = "1px"
