@@ -25,7 +25,6 @@ function uiglasscard(option) {
     })
 
     //backdrop-filter: blur(5px);
-
 };
 
 
