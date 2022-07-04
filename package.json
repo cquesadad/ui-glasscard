@@ -1,6 +1,6 @@
 {
   "name": "ui-glasscard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ultimate glassmorphism package to make awesome glasscard UI componets like info cards in websites",
   "main": "src/index.js",
   "scripts": {
