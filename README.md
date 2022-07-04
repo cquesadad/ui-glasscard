@@ -30,6 +30,9 @@ UI-GLASSCARD supports 2 options at the beguining, both are optionals:
 * *glass_type* - _hard / soft_ (Default to soft)
 * *border* - _boolean_ (Default to false)
 
+# Contributing
+If someone wants to add new features in UI-GRASSCARD or improve something, I invite you to collaborate directly in this repository: [ui-glasscard](https://github.com/cquesadad/random-canary)
+
 # License
 random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
 
