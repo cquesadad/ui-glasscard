@@ -20,7 +20,7 @@ import { uiglasscard } from 'uiglasscard';
 ```
 uiglasscard({
     glass_type: 'hard',
-    glass_color: 'dark,
+    glass_color: 'dark',
     border: true 
 })
 ```
