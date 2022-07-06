@@ -74,5 +74,5 @@ random-msg is released under the [MIT License](https://opensource.org/licenses/M
 [license-url]: https://github.com/cquesadad/ui-glasscard/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/carlosquesadad/
-[product-screenshot]: https://cquesadad.github.io/landing-cquesada/assets/imgs/ui-glasscard-preview.png
+[product-screenshot]: https://cquesada.es/img/ui-glasscard-preview.jpg
 
