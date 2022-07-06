@@ -19,7 +19,7 @@ Ultimate glassmorphism package to make awesome glasscard UI componets like info 
 <!-- ABOUT THE PROJECT -->
 ## Preview
 
-[![PReview Screen Shot][product-screenshot]](https://github.com/cquesadad/ui-glasscard/blob/main/src/img/ui-glasscard-preview.png)
+[![Preview Screen Shot][product-screenshot]](https://www.linkedin.com/in/carlosquesadad/)
 
 
 # Installation 
@@ -74,5 +74,5 @@ random-msg is released under the [MIT License](https://opensource.org/licenses/M
 [license-url]: https://github.com/cquesadad/ui-glasscard/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/carlosquesadad/
-[product-screenshot]: /main/src/img/ui-glasscard-preview.png
+[product-screenshot]: https://cquesadad.github.io/landing-cquesada/assets/imgs/ui-glasscard-preview.png
 
