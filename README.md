@@ -21,7 +21,8 @@ import { uiglasscard } from 'uiglasscard';
 uiglasscard({
     glass_type: 'hard',
     glass_color: 'dark',
-    border: true 
+    border: true,
+    border_radius: 2
 })
 ```
 
@@ -32,6 +33,7 @@ UI-GLASSCARD supports 2 options at the beguining, both are optionals:
 * *glass_type* - _hard / soft_ (Default to soft)
 * *glass_color* - _dark / light_ (Default to light)
 * *border* - _boolean_ (Default to false)
+* *border_radius* - _1 / 2 / 3_ (Default to 1)
 
 # Contributing
 If someone wants to add new features in UI-GRASSCARD or improve something, I invite you to collaborate directly in this repository: [ui-glasscard](https://github.com/cquesadad/ui-glasscard)
