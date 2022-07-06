@@ -1,6 +1,26 @@
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # ui GlassCard 
 
 Ultimate glassmorphism package to make awesome glasscard UI componets like info cards in websites
+
+<!-- ABOUT THE PROJECT -->
+## Preview
+
+[![PReview Screen Shot][product-screenshot]](https://github.com/cquesadad/ui-glasscard/blob/main/src/img/ui-glasscard-preview.png)
+
 
 # Installation 
 
@@ -40,4 +60,19 @@ If someone wants to add new features in UI-GRASSCARD or improve something, I inv
 
 # License
 random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/cquesadad/ui-glasscard/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/cquesadad/ui-glasscard/network/members
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: hhttps://github.com/cquesadad/ui-glasscard/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/cquesadad/ui-glasscard/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/carlosquesadad/
+[product-screenshot]: /main/src/img/ui-glasscard-preview.png
 
